@@ -1,6 +1,8 @@
 Hi 👋 My name is Valentine Enedah
 =================================
 
+![https://github.com/Venedah/Venedah/blob/main/valyeps.jpg]
+
 Data Scientist
 --------------
 
