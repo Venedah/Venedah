@@ -20,20 +20,47 @@ src="https://img.shields.io/twitter/follow/valentineenedah?logo=twitter&style=fo
 /></a><a href="https://www.github.com/Venedah" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Venedah?logo=github&style=for-the-badge&color=000000&labelColor=1e3a8a" /></a>
 
-### Tools
+## Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height = 32px> 
 
+### Languages 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="" target="_blank">
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="jetbrains" />
-</a>
+  <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  </a>
+  
+  <a href="https://www.mysql.com/">
+	<img alt="MySQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  </a>
+ 
+  <a href="" target="_blank">
+    <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+  </a>
 </p>
 
-### Development Tools
+
+### Database Tools
+<p
+     <a href="" target="_blank">
+    <img alt="Markdown" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  </a>
+    <a href="" target="_blank">
+    <img alt="Markdown" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  </a>
+    <a href="" target="_blank">
+    <img alt="Markdown" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  </a>
+    <a href="" target="_blank">
+    <img alt="Markdown" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+  </a>
+  
+
+### Visualisation Tools
+<p  
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="jetbrains" />
+  </a>
+</p>
+
 ### Development Tools
 <p
   <a href="https://code.visualstudio.com/" target="_blank">
@@ -59,6 +86,25 @@ src="https://img.shields.io/github/followers/Venedah?logo=github&style=for-the-b
     <img alt="Docker" src="https://img.shields.io/badge/Docker-blue.svg?&style=for-the-badge&logo=Docker&logoColor=white">
   </a>
 </p>
+
+### Data Manipulation Tools
+<p  
+  <a href="https://numpy.org/" target="_blank">
+    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+  </a>
+
+   <a href="https://pandas.pydata.org/" target="_blank">
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+  </a>
+
+   <a href="https://plotly.com/" target="_blank">
+    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
+  </a>
+  <a href="https://plotly.com/" target="_blank">
+    <img alt="Plotly" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
+  </a>
+
+ </p>
 
 ### Socials
 
