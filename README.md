@@ -1,10 +1,10 @@
-Hi 👋 My name is Valentine Enedah
-=================================
+## Hi, I’m Valentine Enedah <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 32px height = 32px> 
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Product+Manager!" /></a>
+</p>
 
 ![](https://github.com/Venedah/Venedah/blob/main/Valentineenedah.jpg)
 
-Data Product Manager
---------------
 
 I am a detailed and self-driven individual with experience as an IT Support Specialist and 3+ years of professional photography. I am a graduate of one of Nigeria's leading universities, where I have a Physics/Electronics degree with a specialization in Information Technology. I currently investigate how Data Science can disrupt the field of physics, with a focus on analytics, building ML models and storytelling through robust data visualization. Due to the diverse experience gained while working, I have developed a high level of service orientation and commitment in exploring new ideas in technology.
 
@@ -189,10 +189,10 @@ src="https://img.shields.io/github/followers/Venedah?logo=github&style=for-the-b
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ifeanyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nneji123&show_icons=true&count_private=true&theme=dark" height="192px"/></a>
+    <a href="https://github.com/Venedah/github-readme-stats"><img alt="Venedah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Venedah&show_icons=true&count_private=true&theme=dark" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nneji123&show_icons=true&locale=en&layout=compact&theme=dark" alt="nneji123" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Venedah&show_icons=true&locale=en&layout=compact&theme=dark" alt="Venedah" height="192px"/>
   <br/>
   </p>
 </details>
@@ -201,7 +201,7 @@ src="https://img.shields.io/github/followers/Venedah?logo=github&style=for-the-b
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/nneji123"><img alt="Ifeanyi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nneji123&custom_title=Ifeanyi's%20Contribution%20Graph&theme=dark" /></a>
+   <a href="https://github.com/Venedah"><img alt="Venedah's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nneji123&custom_title=Venedah's%20Contribution%20Graph&theme=dark" /></a>
   <br/>
 
 </details>
@@ -209,7 +209,7 @@ src="https://img.shields.io/github/followers/Venedah?logo=github&style=for-the-b
 <details>
   <summary><b>⚡ GitHub Contribution Streak</b></summary>
   <br/>
-   <a href="https://github.com/nneji123"><img alt="Ifeanyi's Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nneji123&theme=dark" /></a>
+   <a href="https://github.com/Venedah"><img alt="Venedah's Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Venedah&theme=dark" /></a>
   <br/>
 
 </details>
@@ -218,7 +218,7 @@ src="https://img.shields.io/github/followers/Venedah?logo=github&style=for-the-b
 <br/>
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nneji123&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Venedah&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 
 
@@ -226,6 +226,7 @@ src="https://img.shields.io/github/followers/Venedah?logo=github&style=for-the-b
 
 
 ### What I'm Currently Listening To
+
 
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=thiei724elvwcervp1qpymi9m&cover_image=true&theme=default&bar_color=18cd1b&bar_color_cover=false" 
