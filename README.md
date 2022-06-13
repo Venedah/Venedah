@@ -97,14 +97,38 @@ src="https://img.shields.io/github/followers/Venedah?logo=github&style=for-the-b
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
   </a>
 
-   <a href="https://plotly.com/" target="_blank">
-    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
-  </a>
   <a href="https://plotly.com/" target="_blank">
     <img alt="Plotly" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
   </a>
-
  </p>
+ 
+### Machine Learning Tools
+<p
+   <a href="" target="_blank">
+    <img alt="Tensor" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  </a>
+
+   <a href="https://scikit-learn.org/" target="_blank">
+    <img alt="Scikit" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+   </a>
+
+   <a href="https://keras.io/" target="_blank">
+    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
+   </a>
+
+   <a href="https://pytorch.org/" target="_blank">
+    <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-red?style=for-the-badge&logo=Pytorch&logoColor=white">
+   </a>
+   
+### Backend Tools
+<p
+  
+  <a href="" target="_blank">
+    <img alt="FastApi" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
+  </a>
+  <a href="https://opencv.org/" target="_blank">
+    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
+  </a>
 
 ### Socials
 
@@ -127,3 +151,20 @@ src="https://img.shields.io/github/followers/Venedah?logo=github&style=for-the-b
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/Venedah/Facial_recognition_with_Dlib" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Venedah&repo=Facial_recognition_with_Dlib&title_color=0891b2&text_color=ffffff&icon_color=000000&bg_color=1e3a8a&hide_border=true&locale=en" /></a><a href="https://github.com/Venedah/AIRBNB-NYC-DIVISION-ANALYSIS-AND-VISUALIZATION" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Venedah&repo=AIRBNB-NYC-DIVISION-ANALYSIS-AND-VISUALIZATION&title_color=0891b2&text_color=ffffff&icon_color=000000&bg_color=1e3a8a&hide_border=true&locale=en" /></a></div>
+
+
+## What I'm Currently Listening To
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=thiei724elvwcervp1qpymi9m&cover_image=true&theme=default&bar_color=18cd1b&bar_color_cover=false" 
+      alt="example"> 
+</p>
+   
+
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
