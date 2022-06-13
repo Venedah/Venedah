@@ -5,7 +5,7 @@
 
 ![](https://github.com/Venedah/Venedah/blob/main/Valentineenedah.jpg)
 
-## I have great passion in organising workflows, building teams, coordinating programmes, seeing projects from success to finish.
+## I have great passion in organizing workflows, building teams, coordinating programmes and overseeing projects from start to finish.
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [valentine.enedah@gmail.com](mailto:valentine.enedah@gmail.com)
