@@ -5,7 +5,6 @@
 
 ![](https://github.com/Venedah/Venedah/blob/main/Valentineenedah.jpg)
 
-## I have great passion in organizing workflows, building teams, coordinating programmes and overseeing projects from start to finish.
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [valentine.enedah@gmail.com](mailto:valentine.enedah@gmail.com)
@@ -151,9 +150,6 @@ src="https://img.shields.io/github/followers/Venedah?logo=github&style=for-the-b
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Venedah&repo=Facial_recognition_with_Dlib&theme=dark"/>
 
 	
-	
-	
-	
 </a> 
 
 <a href="https://github.com/Venedah/AIRBNB-NYC-DIVISION-ANALYSIS-AND-VISUALIZATION">
@@ -169,6 +165,26 @@ src="https://img.shields.io/github/followers/Venedah?logo=github&style=for-the-b
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Venedah&repo=Titanic_Machine_Learning&theme=dark" />
+
+</a> 
+
+</a> 
+
+<a href="https://github.com/Venedah/Sakila-DVD-Rental-database">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Venedah&repo=Sakila-DVD-Rental-database&theme=dark" />
+
+</a> 
+
+</a> 
+
+<a href="https://github.com/Venedah/Stock_Prediction_Using_LSTMs">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Venedah&repo=Stock_Prediction_Using_LSTMs&theme=dark" />
 
 </a> 
 
