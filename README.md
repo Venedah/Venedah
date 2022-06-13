@@ -11,7 +11,7 @@ I am a detailed and self-driven individual with experience as an IT Support Spec
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [valentine.enedah@gmail.com](mailto:valentine.enedah@gmail.com)
 * 🚀  I'm currently working on [Democratizing AI in Africa](http://www.zummitafrica.com)
-* 🧠  I'm currently learning and being responsible for data democratization and increasing the time to value for the data itself.
+* 🧠  I'm currently learning and being responsible for data democratization and increasing the time to value for data itself.
 * 🤝  I'm open to collaborating on ML/DL Projects and working on how data-driven insights play a central role in all decisions and efforts in building a new product or feature.
 * ⚡  I'm a Manchester United fan, Melophile and a gym rat.
 
