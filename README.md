@@ -144,24 +144,45 @@ src="https://img.shields.io/github/followers/Venedah?logo=github&style=for-the-b
 
 <a href="http://www.github.com/Venedah"><img src="https://activity-graph.herokuapp.com/graph?username=Venedah&bg_color=1e3a8a&color=ffffff&line=000000&point=ffffff&area_color=1e3a8a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<b>Top Repositories</b>
+## Projects
 
-<div width="100%" align="center"><a href="https://github.com/Venedah/Loan-Prediction-System" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Venedah&repo=Loan-Prediction-System&title_color=0891b2&text_color=ffffff&icon_color=000000&bg_color=1e3a8a&hide_border=true&locale=en" /></a><a href="https://github.com/Venedah/Stock_Prediction_Using_LSTMs" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Venedah&repo=Stock_Prediction_Using_LSTMs&title_color=0891b2&text_color=ffffff&icon_color=000000&bg_color=1e3a8a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<a href="https://github.com/Venedah/Loan-Prediction-System">
 
-<br /><br /><br /><br /><br />
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-<div width="100%" align="center"><a href="https://github.com/Venedah/Facial_recognition_with_Dlib" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Venedah&repo=Facial_recognition_with_Dlib&title_color=0891b2&text_color=ffffff&icon_color=000000&bg_color=1e3a8a&hide_border=true&locale=en" /></a><a href="https://github.com/Venedah/AIRBNB-NYC-DIVISION-ANALYSIS-AND-VISUALIZATION" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Venedah&repo=AIRBNB-NYC-DIVISION-ANALYSIS-AND-VISUALIZATION&title_color=0891b2&text_color=ffffff&icon_color=000000&bg_color=1e3a8a&hide_border=true&locale=en" /></a></div>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Venedah&repo=Loan-Prediction-System&theme=dark" />
+
+</a>  
+
+<a href="https://github.com/Venedah/Facial_recognition_with_Dlib">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Venedah&repo=Facial_recognition_with_Dlib&theme=dark"/>
+
+</a> 
+
+<a href="https://github.com/Venedah/AIRBNB-NYC-DIVISION-ANALYSIS-AND-VISUALIZATION">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Venedah&repo=AIRBNB-NYC-DIVISION-ANALYSIS-AND-VISUALIZATION&theme=dark" />
+
+</a> 
+
+<a href="https://github.com/Venedah/Titanic_Machine_Learning">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Venedah&repo=Titanic_Machine_Learning&theme=dark" />
+
+</a> 
 
 
 
 
 
-
-
-
-
-
-## What I'm Currently Listening To
+### What I'm Currently Listening To
 
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=thiei724elvwcervp1qpymi9m&cover_image=true&theme=default&bar_color=18cd1b&bar_color_cover=false" 
