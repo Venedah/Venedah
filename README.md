@@ -20,7 +20,7 @@ src="https://img.shields.io/twitter/follow/valentineenedah?logo=twitter&style=fo
 /></a><a href="https://www.github.com/Venedah" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Venedah?logo=github&style=for-the-badge&color=000000&labelColor=1e3a8a" /></a>
 
-### Skills
+### Tools
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -28,6 +28,9 @@ src="https://img.shields.io/github/followers/Venedah?logo=github&style=for-the-b
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="jetbrains" />
+</a>
 </p>
 
 
