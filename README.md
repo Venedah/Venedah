@@ -153,6 +153,14 @@ src="https://img.shields.io/github/followers/Venedah?logo=github&style=for-the-b
 <div width="100%" align="center"><a href="https://github.com/Venedah/Facial_recognition_with_Dlib" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Venedah&repo=Facial_recognition_with_Dlib&title_color=0891b2&text_color=ffffff&icon_color=000000&bg_color=1e3a8a&hide_border=true&locale=en" /></a><a href="https://github.com/Venedah/AIRBNB-NYC-DIVISION-ANALYSIS-AND-VISUALIZATION" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Venedah&repo=AIRBNB-NYC-DIVISION-ANALYSIS-AND-VISUALIZATION&title_color=0891b2&text_color=ffffff&icon_color=000000&bg_color=1e3a8a&hide_border=true&locale=en" /></a></div>
 
 
+
+
+
+
+
+
+
+
 ## What I'm Currently Listening To
 
 <p align="center">
