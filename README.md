@@ -160,6 +160,10 @@ src="https://img.shields.io/github/followers/Venedah?logo=github&style=for-the-b
 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Venedah&repo=Facial_recognition_with_Dlib&theme=dark"/>
 
+	
+	
+	
+	
 </a> 
 
 <a href="https://github.com/Venedah/AIRBNB-NYC-DIVISION-ANALYSIS-AND-VISUALIZATION">
@@ -177,6 +181,8 @@ src="https://img.shields.io/github/followers/Venedah?logo=github&style=for-the-b
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Venedah&repo=Titanic_Machine_Learning&theme=dark" />
 
 </a> 
+
+
 
 
 
