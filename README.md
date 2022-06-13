@@ -3,7 +3,7 @@ Hi 👋 My name is Valentine Enedah
 
 ![](https://github.com/Venedah/Venedah/blob/main/Valentineenedah.jpg)
 
-Data Scientist
+Data Product Manager
 --------------
 
 I am a detailed and self-driven individual with experience as an IT Support Specialist and 3+ years of professional photography. I am a graduate of one of Nigeria's leading universities, where I have a Physics/Electronics degree with a specialization in Information Technology. I currently investigate how Data Science can disrupt the field of physics, with a focus on analytics, building ML models and storytelling through robust data visualization. Due to the diverse experience gained while working, I have developed a high level of service orientation and commitment in exploring new ideas in technology.
