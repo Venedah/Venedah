@@ -134,15 +134,6 @@ src="https://img.shields.io/github/followers/Venedah?logo=github&style=for-the-b
 
 <p align="left"> <a href="https://www.facebook.com/valentineenedah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Venedah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://Venedah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/valentineenedah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/valentine-enedah-b13b74191" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/valentineenedah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/17915390/valentine-enedah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/valentineenedah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Venedah"><img src="https://github-readme-stats.vercel.app/api?username=Venedah&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=000000&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="Venedah's GitHub stats" /></a>
-
-<a href="http://www.github.com/Venedah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Venedah&stroke=ffffff&background=1e3a8a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/Venedah"><img src="https://activity-graph.herokuapp.com/graph?username=Venedah&bg_color=1e3a8a&color=ffffff&line=000000&point=ffffff&area_color=1e3a8a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ## Projects
 
@@ -182,7 +173,7 @@ src="https://img.shields.io/github/followers/Venedah?logo=github&style=for-the-b
 
 </a> 
 
-## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px height = 35px>
+### Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px height = 35px>
 
 
 <details> 
@@ -201,7 +192,7 @@ src="https://img.shields.io/github/followers/Venedah?logo=github&style=for-the-b
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Venedah"><img alt="Venedah's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nneji123&custom_title=Venedah's%20Contribution%20Graph&theme=dark" /></a>
+   <a href="https://github.com/Venedah"><img alt="Venedah's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Venedah&custom_title=Venedah's%20Contribution%20Graph&theme=dark" /></a>
   <br/>
 
 </details>
@@ -219,9 +210,6 @@ src="https://img.shields.io/github/followers/Venedah?logo=github&style=for-the-b
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Venedah&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-
-
 
 
 
