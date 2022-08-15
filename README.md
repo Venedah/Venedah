@@ -13,7 +13,7 @@
 * 🤝  I'm open to collaborating on ML/DL Projects and working on how data-driven insights play a central role in all decisions and efforts in building a new product or feature.
 * ⚡  I'm a Manchester United fan, Melophile and a gym rat.
 
-<a href="https://www.twitter.com/valentineenedah" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/yurtechbro" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/valentineenedah?logo=twitter&style=for-the-badge&color=000000&labelColor=1e3a8a"
 /></a><a href="https://www.github.com/Venedah" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Venedah?logo=github&style=for-the-badge&color=000000&labelColor=1e3a8a" /></a>
