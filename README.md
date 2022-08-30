@@ -6,7 +6,7 @@
 ![](https://github.com/Venedah/Venedah/blob/main/Valentineenedah.jpg)
 
 
-* 🌍  I'm based in Lagos, Nigeria
+* 🌍  I'm based in Uyo, Nigeria
 * ✉️  You can contact me at [valentine.enedah@gmail.com](mailto:valentine.enedah@gmail.com)
 * 🚀  I'm currently working on [Democratizing AI in Africa](http://www.zummitafrica.com)
 * 🧠  I'm currently learning and being responsible for data democratization and increasing the time to value for data itself.
