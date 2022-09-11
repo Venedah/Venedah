@@ -14,7 +14,7 @@
 * ⚡  I'm a Manchester United fan, Melophile and a gym rat.
 
 <a href="https://twitter.com/yurtechbro" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/valentineenedah?logo=twitter&style=for-the-badge&color=000000&labelColor=1e3a8a"
+src="https://img.shields.io/twitter/follow/yurtechbro?logo=twitter&style=for-the-badge&color=000000&labelColor=1e3a8a"
 /></a><a href="https://twitter.com/yurtechbro" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Venedah?logo=github&style=for-the-badge&color=000000&labelColor=1e3a8a" /></a>
 
