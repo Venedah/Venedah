@@ -15,7 +15,7 @@
 
 <a href="https://twitter.com/yurintrotechbro" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/yurtechbro?logo=twitter&style=for-the-badge&color=000000&labelColor=1e3a8a"
-/></a><a href="https://twitter.com/yurintrotechbro" target="_blank" rel="noreferrer"><img
+/></a><a href="https://github.com/Venedah" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Venedah?logo=github&style=for-the-badge&color=000000&labelColor=1e3a8a" /></a>
 
 ## Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height = 32px> 
