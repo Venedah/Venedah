@@ -2,10 +2,7 @@
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+an+AI+Program+Manager!" /></a>
 </p>
-
 ![](https://github.com/Venedah/Venedah/blob/main/welcome.gif)
-
-
 * 🌍  I'm based in Uyo, Nigeria
 * ✉️  You can contact me at [valentine.enedah@gmail.com](mailto:valentine.enedah@gmail.com)
 * 🚀  I'm currently working on [Democratizing AI in Africa](http://www.zummitafrica.com)
